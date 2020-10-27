@@ -6,11 +6,11 @@ If you found this project useful, then please consider giving it a :star: on Git
 
 ## Project Created & Maintained By
 
-### lexington  technomlogu
-A  app to showcase login-signup app using flutter.
+###   lexington  technomlogy
+A  app to showcase Quizzer login-signup app using flutter.
 
 # Demo
-<
+
 
 # Android Screen
 
@@ -20,8 +20,8 @@ A  app to showcase login-signup app using flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter quizzer application.
 
-A few resources to get you started if this is your first Flutter project:
+more resources to be added :
 
-For help getting started with Flutter, visit lexington
+For help getting started with Flutter, visit lexington technology
